@@ -1,3 +1,3 @@
 # Anathesmelt
 
-A project for dangerously powerful Claude hooks. 
+a Forge for Claude hooks.
