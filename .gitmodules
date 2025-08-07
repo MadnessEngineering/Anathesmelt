@@ -1,0 +1,3 @@
+[submodule "cursor-mad"]
+	path = cursor-mad
+	url = https://github.com/MadnessEngineering/MadnessMethods.git
