@@ -198,3 +198,9 @@ dmypy.json
 .pytype/
 # Cython debug symbols
 cython_debug/ 
+*.lock
+/claude-prime/shell-snapshots
+/cursor-prime/extensions
+/claude-prime/projects
+/claude-prime/statsig
+/claude-prime/todos
