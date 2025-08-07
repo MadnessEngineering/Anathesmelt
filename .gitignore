@@ -204,3 +204,6 @@ cython_debug/
 /claude-prime/projects
 /claude-prime/statsig
 /claude-prime/todos
+/goose_prime/mcp-hermit
+goose_prime/sessions
+goose_prime/config.yaml
