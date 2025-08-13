@@ -1,17 +1,1 @@
-{
-    "mcpServers": {
-        "todo server": {
-            "url": "http://52.44.236.251:8000/sse",
-            "env": {}
-        },
-        "omnispindle": {
-      "command": "python3.11",
-      "args": ["/Users/d.edens/lab/madness_interactive/projects/common/Omnispindle/stdio_main.py"],
-      "cwd": "/Users/d.edens/lab/madness_interactive/projects/common/Omnispindle",
-      "env": {
-          "MONGODB_URI": "mongodb://52.44.236.251:27017",
-          "MONGODB_DB": "swarmonomicon"
-      }
-  }
-    }
-}
+{"mcpServers":{"omnispindle":{"command":"python3.11","args":["/Users/d.edens/lab/madness_interactive/projects/common/Omnispindle/stdio_main.py"],"cwd":"/Users/d.edens/lab/madness_interactive/projects/common/Omnispindle","env":{"MONGODB_URI":"mongodb://52.44.236.251:27017","MONGODB_DB":"swarmonomicon"}},"MCP_DOCKER":{"command":"docker","args":["mcp","gateway","run"]}}}
